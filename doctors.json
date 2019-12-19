@@ -1,0 +1,30 @@
+{
+  "doctors": [
+    {
+      "name": "John",
+      "id": 9090
+    },
+    {
+      "name": "Peter",
+      "id": 9067
+    },{
+      "name": "Amudha",
+      "id": 2333
+    }
+  ],
+  "services": [{
+    "name": "General",
+    "id":102,
+    "doctor": "John"
+  },
+  {
+    "name": "Ortho",
+    "id":108,
+    "doctor": "Amudha"
+  },
+  {
+    "name": "Pediatric",
+    "id":190,
+    "doctor": "Peter"
+  }]
+}
