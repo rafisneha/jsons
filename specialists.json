@@ -1,0 +1,6 @@
+{
+"Speciality" : [{"area" : "Neurologist" ,
+"doctors":["Arun", "Shashi" , "Layla"]}, {"area" : "Pediatrician" ,
+"doctors":["Dev", "Peter" ]},{"area" : "Oncologist" ,
+"doctors":["Varma", "Odys"]},{"area" : "Dermatologist" ,
+"doctors":["Micha" , "Shari"]}] }
