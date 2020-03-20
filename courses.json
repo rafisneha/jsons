@@ -1,3 +1,19 @@
-[
-
-]
+{
+"courses" :  [
+            {
+                "cId": 1234,
+                "name": "React Testing JEST",
+                "level": 1
+            },
+            {
+                "cId": 4567,
+                "name": "React Native",
+                "level": 2
+            },
+            {
+                "cId": 8910,
+                "name": "Redux",
+                "level": 3
+            }
+        ] 
+}
